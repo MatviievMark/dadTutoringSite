@@ -220,7 +220,7 @@ export default function Home() {
             ) : (
               <form 
                 className="max-w-lg w-full" 
-                action="https://formspree.io/f/mnnqnavg" 
+                action="https://formspree.io/f/xkgngwzj" 
                 method="POST"
                 onSubmit={handleSubmit}
               >
